@@ -1,0 +1,12 @@
+httpx
+python-dotenv
+numpy
+sounddevice
+soundfile
+noisereduce
+fastapi
+uvicorn
+python-multipart
+pytest
+# offline speech recognition (used when there's no Deepgram key, and as its backup)
+faster-whisper
